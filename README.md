@@ -1,6 +1,6 @@
 ### Libft
-#### Résumé
-Création d'une bibliothèque de fonctions souvent utilisées en C, incluant une réécriture de fonctions de la bibliothèque standard et l'ajout de nouvelles fonctions utilitaires. Fondation pour tous les projets en C ultérieurs, mettant l'accent sur la réutilisabilité du code.
-#### Compétences acquises
-- Développement en C, gestion de la mémoire, structures de données.
-- Écriture de code propre, modulaire et réutilisable.
+#### Summary
+Creation of a library of functions often used in C, including a rewrite of functions from the standard library and the addition of new utility functions. Foundation for all subsequent C projects, with emphasis on code reusability.
+#### Skills acquired
+- Development in C, memory management, data structures.
+- Write clean, modular and reusable code.
